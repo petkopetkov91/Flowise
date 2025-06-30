@@ -60,11 +60,7 @@
         "turbo": "1.10.16",
         "typescript": "^5.4.5"
     },
-    "pnpm": {
-        "onlyBuiltDependencies": [
-            "faiss-node",
-            "sqlite3"
-        ],
+  
         "overrides": {
             "axios": "1.7.9",
             "body-parser": "2.0.2",
